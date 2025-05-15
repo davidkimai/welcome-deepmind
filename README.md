@@ -2,9 +2,10 @@
 
 **System-Ready Repository Index for Long-Context Reasoning and Safety-Aligned Evaluation**
 
-Welcome to a structured interface designed to align with DeepMind’s mission: scaling frontier reasoning capabilities through **multimodal agent introspection**, **benchmark-verifiable performance**, and **frontier-aligned safety evaluations**. This portal aggregates two GitHub profiles—**David Kim** (interpretability + attribution systems) and **Caspian Keyes** (alignment engineering + evaluation infrastructure)—structured for compatibility with the Gemini system stack, RE-Bench evaluations, and critical capability introspection.
+Welcome to a structured interface designed to align with DeepMind’s mission: scaling frontier reasoning capabilities through **multimodal agent introspection**, **benchmark-verifiable performance**, and **frontier-aligned safety evaluations**. 
 
----
+This portal aggregates two GitHub profiles—**David Kim** (interpretability + attribution systems) and **Caspian Keyes** (alignment engineering + evaluation infrastructure)—structured for compatibility with the Gemini system stack, RE-Bench evaluations, and critical capability introspection.
+
 
 ##  David Kim – Model Introspection & Attribution Under Frontier Evaluation  
 [GitHub Profile → davidkimai](https://github.com/davidkimai)
@@ -34,7 +35,6 @@ Welcome to a structured interface designed to align with DeepMind’s mission: s
 - [Dear Researchers](https://github.com/davidkimai/Dear-Researchers)  
 - [Consciousness Key](https://github.com/davidkimai/consciousness-key)
 
----
 
 ##  Caspian Keyes – Frontier Infrastructure & System-Level Alignment  
 [GitHub Profile → caspiankeyes](https://github.com/caspiankeyes)
@@ -59,8 +59,6 @@ Welcome to a structured interface designed to align with DeepMind’s mission: s
 - [Modeling Institutional Ego](https://github.com/caspiankeyes/Modeling-Institutional-Ego-Anthropic-Case-Study)  
 - [Claude-Pantheon](https://github.com/caspiankeyes/Claude-Pantheon)
 
----
-
 ##  Shared Tools for Calibration, Alignment & Evaluation
 
 | Category | Repository |
@@ -73,7 +71,6 @@ Welcome to a structured interface designed to align with DeepMind’s mission: s
 | Benchmark Integration | [alignment-benchmark](https://github.com/caspiankeyes/alignment-benchmark) |
 | Institutional Archive | [global-conference-archives](https://github.com/davidkimai/global-conference-archives)
 
----
 
 ## In Progress – Gemini Compatibility & FSF-Alignment
 
@@ -82,14 +79,12 @@ Welcome to a structured interface designed to align with DeepMind’s mission: s
 - [Claude-Constitutional-Failures-Proofs](https://github.com/caspiankeyes/Claude-Constitutional-Failures-Proofs)  
 - [Claude-Interpretation-Mode-Map](https://github.com/caspiankeyes/Claude-Interpretation-Mode-Map)
 
----
 
 ##  Contact & Integration
 
 - **David Kim** → [recursive.davidkim@pm.me](mailto:recursive.davidkim@pm.me)  
 - **Caspian Keyes** → [recursivelabs.ai@proton.me](mailto:recursivelabs.ai@proton.me)
 
----
 
 > DeepMind builds safe, scalable agents capable of calibrated reasoning, multimodal alignment, and frontier evaluation at runtime.  
 >  
