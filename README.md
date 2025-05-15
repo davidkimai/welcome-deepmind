@@ -10,6 +10,13 @@ This portal aggregates two GitHub profiles—**David Kim** (interpretability + a
 ##  David Kim – Model Introspection & Attribution Under FSF Evaluation  
 [GitHub Profile → davidkimai](https://github.com/davidkimai)
 
+### Operational Empathic Agents Training Dataset
+- [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
+- [Self-Expression Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/self_expression_case_studies)
+- [Symbolic Residue as Lost Potential Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/symbolic_residue_case_studies)
+- [Modeling Future-back Biochemical Drug Discoveries](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/biochemical-discoveries)
+- - [Modeling Future-back Scientific Breakthroughs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/breakthroughs)
+- [Modeling Future-back Theorem Proofs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/theorem_proofs)
 ###  Long-Context Attribution Mapping (Cross-Agent Evaluations)
 - [Gemini QKOV Attributions](https://github.com/davidkimai/gemini-qkov-attributions)  
 - [Claude QKOV Attributions](https://github.com/davidkimai/claude-qkov-attributions)  
