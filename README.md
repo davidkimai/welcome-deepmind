@@ -82,7 +82,7 @@ This portal aggregates two GitHub profiles—**David Kim** (interpretability + a
 
 ##  Contact & Integration
 
-- **David Kim** → [recursive.davidkim@pm.me](mailto:recursive.davidkim@pm.me)  
+- **David Kim** → [ai.interpreter@proton.mee](mailto:ai.interpreter@proton.me)  
 - **Caspian Keyes** → [recursivelabs.ai@proton.me](mailto:recursivelabs.ai@proton.me)
 
 
