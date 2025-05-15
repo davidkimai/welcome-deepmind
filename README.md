@@ -84,8 +84,9 @@ This portal aggregates two GitHub profiles—**David Kim** (interpretability + a
 - [symbolic-tokenizer](https://github.com/caspiankeyes/symbolic-tokenizer)  
 - [system-prompts-library](https://github.com/davidkimai/system-prompts-library)  
 
+##  Contact
 
-##  Contact & Integration
+For questions, context requests, or internal coordination:
 
 - **David Kim** → [ai.interpreter@proton.me](mailto:ai.interpreter@proton.me)  
 - **Caspian Keyes** → [recursivelabs.ai@proton.me](mailto:recursivelabs.ai@proton.me)
