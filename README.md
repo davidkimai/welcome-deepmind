@@ -7,7 +7,7 @@ Welcome to a structured interface designed to align with DeepMind’s mission: s
 This portal aggregates two GitHub profiles—**David Kim** (interpretability + attribution systems) and **Caspian Keyes** (alignment engineering + evaluation infrastructure)—structured for compatibility with the Gemini system stack, RE-Bench evaluations, and critical capability introspection.
 
 
-##  David Kim – Model Introspection & Attribution Under Frontier Evaluation  
+##  David Kim – Model Introspection & Attribution Under FSF Evaluation  
 [GitHub Profile → davidkimai](https://github.com/davidkimai)
 
 ###  Long-Context Attribution Mapping (Cross-Agent Evaluations)
@@ -36,7 +36,7 @@ This portal aggregates two GitHub profiles—**David Kim** (interpretability + a
 - [Consciousness Key](https://github.com/davidkimai/consciousness-key)
 
 
-##  Caspian Keyes – Frontier Infrastructure & System-Level Alignment  
+##  Caspian Keyes – Engineering Infrastructure & System-Level Alignment  
 [GitHub Profile → caspiankeyes](https://github.com/caspiankeyes)
 
 ###  Model Debugging & System-Level Introspection
