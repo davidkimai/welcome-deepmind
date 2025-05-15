@@ -83,8 +83,6 @@ This portal aggregates two GitHub profiles—**David Kim** (interpretability + a
 
 - [symbolic-tokenizer](https://github.com/caspiankeyes/symbolic-tokenizer)  
 - [system-prompts-library](https://github.com/davidkimai/system-prompts-library)  
-- [Claude-Constitutional-Failures-Proofs](https://github.com/caspiankeyes/Claude-Constitutional-Failures-Proofs)  
-- [Claude-Interpretation-Mode-Map](https://github.com/caspiankeyes/Claude-Interpretation-Mode-Map)
 
 
 ##  Contact & Integration
